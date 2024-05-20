@@ -1,0 +1,74 @@
+
+
+
+.container{
+
+border:5px solid rgba(0, 0, 0, 1);
+font-family:  sans-serif;
+
+}
+.head{
+
+   background: rgba(0, 0, 0, 0.048);
+   text-align: center;
+   
+
+}
+
+.head h2{
+
+text-transform: uppercase;
+
+   /* padding:auto; */
+}
+
+.price{
+    font-weight: 900;
+    font-size: 25px;
+}
+
+
+.shipping{
+    font-weight: 200;
+    font-size: 10px;
+    text-transform: uppercase;
+   color: rgba(0,0,0,0.5);
+}
+
+.link{
+    color: #000000fb;
+}
+
+.link:hover{
+    background-color:yellow;
+    text-decoration: none;
+
+}
+
+button{
+    background-color: black;
+    color:white;
+    text-transform: uppercase;
+    border:none;
+    font-weight: 900;
+    font-size: 15px;
+    padding: 10px 20px;
+    
+    cursor: pointer;
+}
+button:hover{
+
+    background-color: white;
+    color:black;
+}
+.container h2{
+    text-transform: uppercase;
+    font-size:20px;
+}
+ul li{
+    list-style: square;
+    font-size: 15px;
+    font-weight: 200;
+    color: rgba(0,0,0,1);
+}
+
